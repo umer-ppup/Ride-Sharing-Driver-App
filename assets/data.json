@@ -1,0 +1,44 @@
+{
+     "RideHistory": [
+       {
+         "id": "1",
+         "vechiletype": "Bike",
+         "totalFare": "350",
+         "totalKm": "10",
+         "to": "Johat Town",
+         "from": "Thokar niaz baig"
+       },
+       {
+         "id": "1",
+         "vechiletype": "Bike",
+         "totalFare": "350",
+         "totalKm": "10",
+         "to": "Johat Town",
+         "from": "Thokar niaz baig"
+       },
+       {
+         "id": "1",
+         "vechiletype": "Bike",
+         "totalFare": "350",
+         "totalKm": "10",
+         "to": "Johat Town",
+         "from": "Thokar niaz baig"
+       },
+       {
+         "id": "1",
+         "vechiletype": "Bike",
+         "totalFare": "350",
+         "totalKm": "10",
+         "to": "Johat Town",
+         "from": "Thokar niaz baig"
+       },
+       {
+         "id": "1",
+         "vechiletype": "Bike",
+         "totalFare": "350",
+         "totalKm": "10",
+         "to": "Johat Town",
+         "from": "Thokar niaz baig"
+       }
+     ]
+   }
