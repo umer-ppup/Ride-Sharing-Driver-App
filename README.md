@@ -1,4 +1,4 @@
-# ride_halling_rider
+# Ride Sharing Driver App
 
 A new Flutter application.
 
